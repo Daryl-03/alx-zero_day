@@ -1,1 +1,4 @@
 git fetch -p origin
+git merge origin/master
+git pull
+git merge master
